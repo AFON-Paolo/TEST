@@ -6,6 +6,9 @@
 
 define([], function () {
     return {
+        TEST: {
+            test: ''
+        },
         IMAGES: {
             PLUS_IMG: 3165,
             MINUS_IMG: 3166,
